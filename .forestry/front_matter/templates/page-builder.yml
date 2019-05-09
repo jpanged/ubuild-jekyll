@@ -32,5 +32,4 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
-- test-page-1.md
 - index.md
